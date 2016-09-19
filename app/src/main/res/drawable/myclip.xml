@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clip xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/a"
+    android:clipOrientation="horizontal"
+    android:gravity="center"
+    >
+    <!--从中间开始，水平方向截取-->
+</clip>
